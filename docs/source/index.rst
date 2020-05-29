@@ -8,7 +8,7 @@ Welcome to Sphinx Web's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption:
    
   
  
