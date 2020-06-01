@@ -21,6 +21,8 @@ project = 'Sphinx Web'
 copyright = '2020, Jose Sanchez'
 author = 'Jose Sanchez'
 
+
+
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
 
@@ -42,6 +44,7 @@ templates_path = ['_templates']
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
 language = '.rst'
+master_doc = 'index'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
